@@ -1,1 +1,3 @@
-# DSALearning\n Learning DSA from scratch\n Stay strong!
+# DSALearning
+Learning DSA from scratch
+Stay strong!
